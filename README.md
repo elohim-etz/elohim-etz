@@ -1,13 +1,8 @@
-[![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)
+![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Naveen Singh Bisht</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <img aligh="center" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cqxiqfbnuw54b4iufjtpts2j0v2j0uzquecygleb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<strong>5 mins Later</strong>
-<img style="margin-top: 200px; aligh="right" alt="coding" width="400" src="https://media3.giphy.com/media/vzO0Vc8b2VBLi/200.webp?cid=ecf05e47cqxiqfbnuw54b4iufjtpts2j0v2j0uzquecygleb&ep=v1_gifs_search&rid=200.webp&ct=g">
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvn152&label=Profile%20views&color=0e75b6&style=flat" alt="nvn152" /> </p>
 

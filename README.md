@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Spotify-Clone**, **Ecommerce Website**
 
-- 🌱 I’m currently learning **Next js 14, Material UI**
+- 🌱 I’m currently learning **Docker, Linux**
 
 - 👨‍💻 All of my projects are available at (I'll complete my portfolio soon)
 

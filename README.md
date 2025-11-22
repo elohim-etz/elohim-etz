@@ -14,6 +14,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nvn-bisht&label=Profile%20Views&color=A277FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -34,15 +38,15 @@
       <br><strong>Arch Linux</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/linux.png" width="48" height="48" alt="NixOS" />
+      <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="48" height="48" alt="NixOS" />
       <br><strong>NixOS</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/vim.png" width="48" height="48" alt="NeoVim" />
+      <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="48" height="48" alt="Neovim" />
       <br><strong>NeoVim</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/96/000000/console.png" width="48" height="48" alt="Zsh" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/zsh/zsh-original.svg" width="48" height="48" alt="Zsh" />
       <br><strong>Zsh</strong>
     </td>
   </tr>
@@ -54,7 +58,7 @@
 CPU:    Intel i5-13600K
 GPU:    NVIDIA RTX 3050
 RAM:    32GB DDR4
-Kernel: 6.17.5-zen1-1-zen
+Kernel: 6.17.8-zen1-1-zen
 Shell:  Zsh
 ```
 
@@ -62,7 +66,7 @@ Shell:  Zsh
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elohim-etz&show_icons=true&count_private=true&hide_border=true&title_color=A277FF&icon_color=A277FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.demolab.com/?user=elohim-etz&theme=dark&hide_border=true&background=0d1117&stroke=A277FF&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=elohim-etz&theme=dark&hide_border=true&background=0d1117&stroke=A277FF&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -92,10 +96,6 @@ Shell:  Zsh
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nvn-bisht&label=Profile%20Views&color=A277FF&style=for-the-badge" alt="Profile Views" />
-</div>
 
 <div align="center">
   

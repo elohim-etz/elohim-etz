@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Naveen+Singh+Bisht;Sometimes+𝙴𝙻𝙾𝙷𝙸𝙼;Welcome+to+my+digital+realm+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Naveen+Singh+Bisht;Sometimes+%F0%9D%99%B4%F0%9D%99%BB%F0%9D%99%BE%F0%9D%99%B7%F0%9D%99%B8%F0%9D%99%BC;Welcome+to+my+digital+realm+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -32,8 +32,8 @@ fn main() {
         location: "India 🇮🇳",
         languages: vec!["Rust", "TypeScript", "C++", "Lua"],
         interests: vec!["Linux", "Android", "DevOps"],
-        current_os: vec!["Arch Linux", "NixOS"],
-        window_managers: vec!["Hyprland", "Niri"],
+        current_os: vec!["NixOS", "Arch Linux"],
+        window_managers: vec!["Niri", "Hyprland"],
         motto: "I use Arch btw 🐧",
     };
 
@@ -63,14 +63,14 @@ fn main() {
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://img.icons8.com/color/96/000000/arch-linux.png" width="48" height="48" alt="Arch Linux" />
-<br><strong>Arch Linux</strong>
+<img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="48" height="48" alt="NixOS" />
+<br><strong>NixOS</strong>
 <br><sub>Daily Driver</sub>
 </td>
 <td align="center" width="200">
-<img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="48" height="48" alt="NixOS" />
-<br><strong>NixOS</strong>
-<br><sub>Declarative Config</sub>
+<img src="https://img.icons8.com/color/96/000000/arch-linux.png" width="48" height="48" alt="Arch Linux" />
+<br><strong>Arch Linux</strong>
+<br><sub>Backup</sub>
 </td>
 <td align="center" width="200">
 <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="48" height="48" alt="Neovim" />
@@ -95,9 +95,9 @@ fn main() {
 CPU: Intel i5-13600K (14-Core, 20-Thread)
 GPU: NVIDIA GeForce RTX 3050
 RAM: 32GB DDR4 @ 3200MHz
-Kernel: 6.18.2-arch2-1
+Kernel: 6.18.8
 Shell: Zsh + Starship
-WM: Hyprland / Niri
+WM: Niri / Hyprland
 ```
 
 </div>
@@ -106,9 +106,24 @@ WM: Hyprland / Niri
 
 ## 📊 GitHub Analytics
 
+<!-- Full-width activity overview -->
 <div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=elohim-etz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A277FF&line=A277FF&point=c9d1d9" alt="Contribution Graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elohim-etz&theme=radical" alt="Profile Details" />
 </div>
+
+<!-- Stats + Productive Time -->
+<div align="center">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elohim-etz&theme=radical" alt="Stats" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elohim-etz&theme=radical" alt="Productive Time" />
+</div>
+
+<!-- Repos per Language + Most Commit Language -->
+<div align="center">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elohim-etz&theme=radical" alt="Repos Per Language" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elohim-etz&theme=radical" alt="Most Commit Language" />
+</div>
+
+<br>
 
 <br>
 
